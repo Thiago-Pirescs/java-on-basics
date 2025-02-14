@@ -1,2 +1,2 @@
 # java-on-basics
-Alterando o conteúdo do arqivo local.
+Alterando o conteúdo do arquivo local.
